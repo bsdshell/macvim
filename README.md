@@ -11,3 +11,8 @@ Vim - the text editor - for Mac OS X
 
 - Packaged in [![Homebrew package](https://repology.org/badge/version-for-repo/homebrew/macvim.svg)](https://repology.org/metapackage/macvim/versions) [![MacPorts package](https://repology.org/badge/version-for-repo/macports/macvim.svg)](https://repology.org/metapackage/macvim/versions)
 
+- build it locally
+- git clone on your MacOS
+- make 
+- build 
+- you will get the binary MacVim under src/...
