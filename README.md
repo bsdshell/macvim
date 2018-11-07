@@ -16,7 +16,11 @@ Vim - the text editor - for Mac OS X
 - make 
 - build 
 - you will get the binary MacVim under src/...
-
+```
+killall -9 MacVim
+killall -9 Vim
+```
+- run MacVim
 - The Version fix a bug for Old MacVim 7.x 
 - Version: Custom Version 8.1.509 (151)
 - E117: Unknown function: matchstrpos
