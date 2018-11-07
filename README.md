@@ -16,3 +16,7 @@ Vim - the text editor - for Mac OS X
 - make 
 - build 
 - you will get the binary MacVim under src/...
+
+- The Version fix a bug for:
+E117: Unknown function: matchstrpos
+E15: Invalid expression: matchstrpos(a:str, l:pat, l:start)
